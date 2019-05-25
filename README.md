@@ -1,1 +1,1 @@
-# ASIC-Based-Archiecture-of-Mel-Frequency-Cepstral-Coefficients
+# ASIC Based Archiecture of Mel Frequency Cepstral Coefficients (MFCC)
