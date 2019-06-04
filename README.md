@@ -5,7 +5,7 @@ This work is for “Develop an Artificial Neural Network (ANN) digital hardware 
 We achieved a dynamic VLSI architecture of Mel-Frequency Ceptral Coefficients (MFCC), which can re-configure and adapt real-time applications. 
 
    
-01_Hierarchy:
+# Hierarchy:
 
 01_Publications_Docs:
 
