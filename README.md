@@ -1,4 +1,4 @@
-# ASIC Based Archiecture of Mel Frequency Cepstral Coefficients (MFCC)
+# An ASIC Based Archiecture of Mel Frequency Cepstral Coefficients (MFCC)
 		
 This work is for “Develop an Artificial Neural Network (ANN) digital hardware architecture applying Vietnam speech recognition automatically” project funded by Department Science and Technology of Ho Chi Minh City, Vietnam.
 
