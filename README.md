@@ -10,15 +10,12 @@ We achieved a dynamic VLSI architecture of Mel-Frequency Ceptral Coefficients (M
 01_Publications_Docs:
 
 + A High Performance Dynamic ASIC-Based Audio Signal Feature Extraction (MFCC) : Published paper for MFCC hardware architecture (Verilog HDL - RTL Design)
-
 + 01_Thesis_Presentation.tar.gz: Composed in Vietnamese langage. 
 
 02_Codes:
 
-+ MFCC_AHB_Interface.tar.gz	: MFCC Hardware design (Verilog HDL) integrated AHB interface
-	
++ MFCC_AHB_Interface.tar.gz	: MFCC Hardware design (Verilog HDL) integrated AHB interface	
 + MFCC_none_Interface.tar.gz : MFCC Hardware dessign (Verilog HDL) without AHB interface
-
 + MFCC_Matlab_Software.tar.gz : MFCC Software Design (Matlab)
 
 The coding package consists MFCC hardware design (RTL level with Verilog HDL), testbench and complex testing environment.
