@@ -11,6 +11,7 @@ We achieved a dynamic VLSI architecture of Mel-Frequency Ceptral Coefficients (M
 
 + A High Performance Dynamic ASIC-Based Audio Signal Feature Extraction (MFCC) : Published paper for MFCC hardware architecture (Verilog HDL - RTL Design)
 + 01_Thesis_Presentation.tar.gz: Composed in Vietnamese langage. 
++ 01_Thesis_Presentation_English.tar.gz: Composed in English langage.
 
 02_Codes:
 
